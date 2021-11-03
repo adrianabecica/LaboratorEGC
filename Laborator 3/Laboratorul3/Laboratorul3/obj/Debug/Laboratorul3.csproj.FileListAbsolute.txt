@@ -1,0 +1,14 @@
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\obj\Debug\Laboratorul3.csproj.AssemblyReference.cache
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\obj\Debug\Laboratorul3.exe.config
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\obj\Debug\Laboratorul3.csproj.CoreCompileInputs.cache
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\Laboratorul3.exe.config
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\Laboratorul3.exe
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\Laboratorul3.pdb
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\OpenTK.dll
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\OpenTK.GLControl.dll
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\OpenTK.pdb
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\OpenTK.xml
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\OpenTK.GLControl.pdb
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\bin\Debug\OpenTK.GLControl.xml
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\obj\Debug\Laboratorul3.exe
+D:\anul 3 facultate\semestrul 1\EGC\Repository\LaboratorEGC\Laborator 3\Laboratorul3\Laboratorul3\obj\Debug\Laboratorul3.pdb
